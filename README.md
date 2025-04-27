@@ -2,6 +2,10 @@
 
 A Retrieval-Augmented Generation (RAG)-based chatbot that intelligently answers detailed restaurant-related questions by scraping real data, processing it, and retrieving the most relevant information.
 
+
+https://github.com/user-attachments/assets/88e4f842-986b-427b-9fe1-92b2507d45d5
+
+
 ---
 
 ## Project Overview
