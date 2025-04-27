@@ -28,7 +28,7 @@ if user_input:
     # Display a thinking indicator while processing
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            bot_response = chatbot_respond(user_input)
+            bot_response = chatbot_respond(st.session_state.messages)
             st.markdown(bot_response) # Display bot response
 
     # Add bot response to chat history

@@ -5,3 +5,7 @@ transformers
 torch
 huggingface-hub
 scikit-learn
+beautifulsoup4
+requests
+google-generativeai
+dotenv
