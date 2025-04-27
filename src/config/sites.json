@@ -1,0 +1,144 @@
+{
+    "sites": [
+        {
+            "name": "Faasos",
+            "url": "https://www.eatsure.com/faasos/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Faasos",
+            "url": "https://www.eatsure.com/faasos/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Behrouz Biryani",
+            "url": "https://www.eatsure.com/behrouz-biryani/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Behrouz Biryani",
+            "url": "https://www.eatsure.com/behrouz-biryani/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Ovenstory",
+            "url": "https://www.eatsure.com/ovenstory/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Ovenstory",
+            "url": "https://www.eatsure.com/ovenstory/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Firangi Bake",
+            "url": "https://www.eatsure.com/firangi-bake/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Firangi Bake",
+            "url": "https://www.eatsure.com/firangi-bake/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Sweet Truth",
+            "url": "https://www.eatsure.com/sweet-truth/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Sweet Truth",
+            "url": "https://www.eatsure.com/sweet-truth/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "The Good Bowl",
+            "url": "https://www.eatsure.com/the-good-bowl/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "The Good Bowl",
+            "url": "https://www.eatsure.com/the-good-bowl/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Lunchbox",
+            "url": "https://www.eatsure.com/lunchbox/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Lunchbox",
+            "url": "https://www.eatsure.com/lunchbox/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "The Biryani Life",
+            "url": "https://www.eatsure.com/the-biryani-life/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "The Biryani Life",
+            "url": "https://www.eatsure.com/the-biryani-life/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Pure Veg Meals By Lunchbox",
+            "url": "https://www.eatsure.com/pure-veg-meals-by-lunchbox/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Pure Veg Meals By Lunchbox",
+            "url": "https://www.eatsure.com/pure-veg-meals-by-lunchbox/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Wendy S",
+            "url": "https://www.eatsure.com/wendy-s/mumbai/dombivli-fc",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        },
+        {
+            "name": "Wendy S",
+            "url": "https://www.eatsure.com/wendy-s/mumbai",
+            "location": "Mumbai",
+            "Time": "10:00 AM - 11:00 PM",
+            "contact": "+91 9523029342"
+        }
+    ]
+}

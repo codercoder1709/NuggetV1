@@ -1,0 +1,18 @@
+# filepath: d:\zomato\scraper\python-scraper-project\.gitignore
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (if you use one, adjust folder name if needed)
+venv/
+.venv/
+env/
+ENV/
+
+# Output files (optional, if you don't want to commit them)
+src/output/faiss_index.bin
+src/output/metadata.pkl
